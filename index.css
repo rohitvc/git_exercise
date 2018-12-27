@@ -22,3 +22,8 @@ h1 {
 .list li:nth-child(odd) {
   background: blue;
 }
+
+
+.randomclass {
+	background: #000;
+}
